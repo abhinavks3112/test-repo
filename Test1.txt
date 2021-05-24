@@ -1,3 +1,4 @@
 Test1
 Some changes in main branch
 New local changes after creating new branch
+Some more changes in main branch after a new branch for new changes has already been created.
